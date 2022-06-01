@@ -5,23 +5,47 @@ const Experience = () => {
 
             <ul>
                 <li>
-                    <i>Clayton State University</i>, 2014-2018
+                    <i>freeCodeCamp.org</i>, 2022
                     <ul>
-                        <li>Graduated with 3.00 GPA</li>
+                        <li>Blockchain developer course</li>
                     </ul>
                 </li>
                 <li>
-                    <i>TechFlow</i> - <strong>Blockchain Developer Intern</strong>, 2018-2019
+                    <i>Udemy</i> - <strong>Blockchain Basics</strong>, 2022
                     <ul>
-                        <li>Studied DApp development</li>
-                        <li>Assisted Research &amp; Development on Web3 Products</li>
+                        <li>Studied Blockchain basics and Proof of work</li>
+                        <li>Developed python based Blockchain</li>
                     </ul>
                 </li>
                 <li>
-                    <i>SpiderChain</i> - <strong>Blockchain Developer</strong>, 2019-2022
+                    <i>Oracle USA(Redwood City)</i> - <strong>Python/Java Backend Developer</strong>, 2018-2022
                     <ul>
-                        <li>Contributed to smart contract development on client's platform</li>
-                        <li>Peer reviewed &amp; Audited Solidity code</li>
+                        <li>Contributed to Backend monitoring tool development for Oracle Fusion Applications</li>
+                        <li>Led a team of 6 members to handle and own Backend monitoring service</li>
+                        <li>Peer Reviewer</li>
+                    </ul>
+                </li>
+                <li>
+                    <i>Google/Nest USA(Palo Alto)</i> - <strong>Java Backend Developer</strong>, 2017 - 2018
+                    <ul>
+                        <li>Developed AI models to predict battery life for upcoming NEST homesecurity devices</li>
+                        <li>Developed AI models to predict battery life for upcoming NEST homesecurity devices</li>
+                        <li>Automated Test harness for Nest security devices</li>
+                        <li>Peer Reviewer</li>
+                    </ul>
+                </li>
+                <li>
+                    <i>RiverMeadow USA(San Jose)</i> - <strong>Python Backend Developer</strong>, 2015 - 2017
+                    <ul>
+                        <li>Developed Migration Engine to Migrate servers to different clouds viz. AWS, GCP, Microsoft Azure, VCloud</li>
+                        <li>Bug fixes in Front-End/UI built in Bootstrap</li>
+                    </ul>
+                </li>
+                <li>
+                    <i>Cisco Systems USA(Milpitas)</i> - <strong>Python Devops Engineer</strong>, 2013 - 2015
+                    <ul>
+                        <li>Built CI/CD platform for running builds for Cisco OS's</li>
+                        <li>Lead a team of 4 members to help support Ci/CD Framework</li>
                     </ul>
                 </li>
             </ul>
