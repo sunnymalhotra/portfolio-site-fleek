@@ -10,7 +10,7 @@ const Header = () => {
                 <h1>Hi, I'm Sunny Malhotra</h1>
                 <p>Blockchain Developer</p>
                 <td>&nbsp;</td>
-                <a href="" className="button">sunny.malhotra1304@gmail.com</a>
+                <a href="mailto: sunny.malhotra1304@gmail.com" className="button">sunny.malhotra1304@gmail.com</a>
                 <td>&nbsp;</td>
                 <a href="https://twitter.com/sunnymalhotra10" className="button">Twitter</a>
                 <td>&nbsp;</td>
